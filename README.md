@@ -63,3 +63,5 @@ En este apartado se explicará las partes o fases principales del análisis de d
 | Matplotlib Seaborn  |Gráficos| 
 |Scipy, Statsmodels |Preprocesado y análisis|
 |Warnings |Configuración warnings
+
+El desarrollo del código ha sido tutorizado por Joan Serrano Marín.
